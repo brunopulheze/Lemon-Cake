@@ -2,7 +2,7 @@
 
 I am Bülent.
 
-* This is my Github Hello World Repo.
+* This is my Github Hello World Repo. *
 
 You are welcome.
 
