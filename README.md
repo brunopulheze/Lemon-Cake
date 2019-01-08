@@ -70,5 +70,6 @@ if (isOK) {
  
  ```
 ```diff
-return
++ This is green text
+- This is red text
 ```
