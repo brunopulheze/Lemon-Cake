@@ -16,3 +16,14 @@ List sample
 3. Three
 
 * New list element
+
+- Plants
+..- Flowers
+..- Trees
+..- Bushes
+* Animals
+  * Tigers
+  * Elephants
+  - Crocodiles
+  * Dogs
+
