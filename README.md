@@ -27,5 +27,7 @@ List sample
   - Crocodiles
   * Dogs
 
-![Test Image!]
-(https://octodex.github.com/images/yaktocat.png)
+![Test Image!](https://octodex.github.com/images/yaktocat.png)
+
+
+> Ahmad says: GitHub is funny :)
