@@ -69,6 +69,6 @@ if (isOK) {
 }
  
  ```
-```Diff
+```diff
 return
 ```
