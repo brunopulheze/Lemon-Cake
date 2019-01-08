@@ -27,4 +27,5 @@ List sample
   - Crocodiles
   * Dogs
 
-![Test Image!](https://octodex.github.com/images/yaktocat.png)
+![Test Image!]
+(https://octodex.github.com/images/yaktocat.png)
