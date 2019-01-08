@@ -70,6 +70,7 @@ if (isOK) {
  
  ```
 ```diff
+Hi every body I udated my HTML codes
 <html>
  <head>
   <title>
@@ -78,10 +79,9 @@ if (isOK) {
   </title>
  </head>
  
- <body>
-  <h1>You are Welcome<h1/>
- </body>
+- <body>
+-  <h1>You are Welcome<h1/>
+- </body>
+
 </html>
-+ This is green text
-- This is red text
 ```
