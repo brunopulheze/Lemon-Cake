@@ -30,7 +30,7 @@ List sample
 ![Test Image!](https://octodex.github.com/images/yaktocat.png)
 
 
-> Ahmad says: GitHub is funny :)
+> Ahmad says: GitHub is funny :smiley:
 > What is Lorem Ipsum?
 
 
