@@ -18,9 +18,9 @@ List sample
 * New list element
 
 - Plants
-..- Flowers
-..- Trees
-..- Bushes
+ - Flowers
+ * Trees
+ - Bushes
 * Animals
   * Tigers
   * Elephants
