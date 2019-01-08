@@ -70,6 +70,18 @@ if (isOK) {
  
  ```
 ```diff
+<html>
+ <head>
+  <title>
+-   My repo
++   My Hello World Repo
+  </title>
+ </head>
+ 
+ <body>
+  <h1>You are Welcome<h1/>
+ </body>
+</html>
 + This is green text
 - This is red text
 ```
